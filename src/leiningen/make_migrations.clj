@@ -1,6 +1,6 @@
-(ns leiningen.makemigrations)
+(ns leiningen.make-migrations)
 
-(defn makemigrations
+(defn make-migrations
   "I don't do a lot."
   [project & args]
   (println "Hello makemigrations!"))
